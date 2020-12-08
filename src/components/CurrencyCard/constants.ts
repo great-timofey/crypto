@@ -1,0 +1,1 @@
+export const CURRENCY_CARD_PADDING = 16;

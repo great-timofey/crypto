@@ -1,0 +1,1 @@
+export { CaptionCell } from './CaptionCell';

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487369773798",
+    "firebase_url": "https://narfex-com.firebaseio.com",
+    "project_id": "narfex-com",
+    "storage_bucket": "narfex-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487369773798:android:93117d197c44be182ee127",
+        "android_client_info": {
+          "package_name": "com.narfex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487369773798-gqfi9vpc2baj767b35ipr69mff1lthdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzvF-nvmQ1UTPCDkYdG1YYF4XBD4I2N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487369773798-gqfi9vpc2baj767b35ipr69mff1lthdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

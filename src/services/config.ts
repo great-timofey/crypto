@@ -1,0 +1,9 @@
+export const API_VERSION = 1;
+export const PRODUCTION = false;
+export const DEV_DOMAIN = 'api-stage.narfex.dev';
+export const PROD_DOMAIN = 'api.narfex.com';
+export const API_URL = `https://${PROD_DOMAIN}/api/v${API_VERSION}/`;
+export const RECAPTCHA_KEY = '6LdRL9QUAAAAAE45WnoX0AM_MSiYgS2aJsbiNI0a';
+export const RECAPTCHA_BASE_URL = 'https://narfex.com';
+export const APP_ID = 9;
+export const PUBLIC_KEY = '1a4b26bc31-a91649-b63396-253abb8d69';
